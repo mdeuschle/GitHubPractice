@@ -18,7 +18,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    self.string = @"DJShelly Checking in";
+    self.string = @"DJMatt is checking out";
 }
 
 - (void)didReceiveMemoryWarning {
