@@ -19,6 +19,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.string = @"Amar";
+    self.string = @"DJShelly Checking in";
 }
 
 - (void)didReceiveMemoryWarning {
