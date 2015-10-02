@@ -10,6 +10,8 @@
 
 @interface ViewController ()
 
+@property NSString *string;
+
 @end
 
 @implementation ViewController
