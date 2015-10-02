@@ -20,6 +20,7 @@
     [super viewDidLoad];
     self.string = @"Amar";
     self.string = @"DJShelly Checking in";
+    self.string = @"N1 or N2 Checking in. ready to rock and roll!";
 }
 
 - (void)didReceiveMemoryWarning {
