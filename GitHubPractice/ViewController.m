@@ -19,7 +19,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 
-    self.string = @"DJMatt is checking out. Ready to rock and roll";
+    self.string = @"DJAmar is checking out. Ready to rock and roll";
 }
 
 - (void)didReceiveMemoryWarning {
