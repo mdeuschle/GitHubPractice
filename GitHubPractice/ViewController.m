@@ -20,6 +20,7 @@
     [super viewDidLoad];
 
     self.string = @"DJAmar is checking out. Ready to rock and roll";
+    self.string = @"This is AWESOME!"
 }
 
 - (void)didReceiveMemoryWarning {
